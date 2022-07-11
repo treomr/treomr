@@ -7,10 +7,10 @@
 -------------------------------------------
 
 - Link dyowa versi (clone)
-- Link: http://bit.ly/dwoya_clone
+- Link: [http://bit.ly/dwoya_clone](url)
 
 - Link dyowa versi (unclone)
-- Link: http://bit.ly/dyowa_unclone
+- Link: [http://bit.ly/dyowa_unclone](url)
 
 Note:
 
